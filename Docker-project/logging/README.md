@@ -32,13 +32,17 @@ tree logging
 
 2 directories, 4 files
 Step2: chnage DOMAIN on docker-comose file with your domain.
+
 Step3: change promtail config
+
 Step4: check compose file and Run all services
 docker-compose config
 docker-compose up -d
+
 Step5: Check compose services and view all services logs
 docker-compose ps
 docker-compose logs -f --tail 100
+
 Step6: check and visit your domain service:
 
 
