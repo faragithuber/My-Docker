@@ -1,5 +1,7 @@
 Monitoring and Alerting with Docker
+
 Logging Stack: Loki, Promtail and Grafana
+
 Web Interface: Traefik
 
 Requirement before running compose file
